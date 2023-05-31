@@ -1,8 +1,8 @@
-name: Install and compile qovery-example
+name: Install and compile cicd-example
 on: push
 
 jobs:
-  qoveryexample:
+  cicdexample:
     name: Check
     runs-on: ubuntu-latest
     steps:
